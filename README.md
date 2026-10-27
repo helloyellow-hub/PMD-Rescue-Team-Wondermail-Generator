@@ -32,18 +32,6 @@ I put this tool together so everything you need for PMD1 passwords lives in one 
 
 ---
 
-## 📸 Preview Gallery
-
-| 🏕️ Outdoor Rescue Team Base & Wonder Mail Generator | 🏠 Indoor Rescue Team Base & Partner Talk (`💬`) |
-| :---: | :---: |
-| ![Outdoor Rescue Team Base & Wonder Mail Generator](screenshots/01-outdoor-base-and-generator.png) | ![Indoor Rescue Team Base](screenshots/02-indoor-base-diorama.png) |
-| *Starter-specific Rescue Team Base, waving team flag, fire braziers, clickable Pelipper mail delivery, and the 24-character Wonder Mail Generator.* | *Step inside your base (`🏠`) to nap on the bed (`💤`), talk with your Partner (`💬`) with PMD1 emotes and dialogue bubbles, or hang out in the room (`👣`).* |
-| **🗺️ World Map, Dungeon Walker & Client Letter** | **🌋 Legendary Friend Area Theme & SOS ➔ A-OK Converter** |
-| ![World Map, Dungeon Walker & Parchment Client Letter](screenshots/03-world-map-and-dungeon-walker.png) | ![Legendary Theme & SOS to A-OK Mail Converter](screenshots/04-legendary-theme-and-sos-converter.png) |
-| *A generated Wonder Mail code with its Rank badge, World Map pin, animated dungeon scene, and Pelipper Post Office job letter.* | *Groudon's Volcanic Pit theme alongside the 54-character SOS ➔ A-OK & Thank-You Mail Converter.* |
-
----
-
 ## 🚀 Quick Start
 
 ### 1. Play in Your Browser (GitHub Pages)

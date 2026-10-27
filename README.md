@@ -97,7 +97,7 @@ Pick your **Lead Pokémon** from 19 themes and pair them with any of the **17 Fo
 | **Gen I-III Water Starters (3)** | **Squirtle** (`#007`), **Totodile** (`#158`), **Mudkip** (`#258`) | Species-specific Water Base Hut with ocean blue UI colors and a matching team flag |
 | **Gen I-III Grass Starters (3)** | **Bulbasaur** (`#001`), **Chikorita** (`#152`), **Treecko** (`#252`) | Species-specific Leaf Base Hut with forest green UI colors |
 | **PMD1 Personality Test Starters (7)** | **Pikachu** (`#025`), **Meowth** (`#052`), **Psyduck** (`#054`), **Machop** (`#066`), **Cubone** (`#104`), **Eevee** (`#133`), **Skitty** (`#300`) | Each starter's own Rescue Team Base hut, custom team flag, and matching color palette |
-| **Classic Theme (1)** | **Classic / Riolu** (`#447`) | Dark-slate UI with the classic Rock Hut Rescue Team Base |
+| **Classic Theme (1)** | **Classic / Riolu** (`#447`) | Classic PMD Blue Theme paired with Riolu on a classic Rock Hut Rescue Team Base |
 | **Weather Trio Legendaries (3)** | **Rayquaza** (`#384`), **Groudon** (`#383`), **Kyogre** (`#382`) | Swaps the Rescue Team Base for each Legendary's animated Friend Area |
 
 ---

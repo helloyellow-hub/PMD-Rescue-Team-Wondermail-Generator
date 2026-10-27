@@ -2,7 +2,26 @@
 
 **Created & Developed by [Dave Alfred (`@helloyellow-hub`)](https://github.com/helloyellow-hub)**
 
+[![Play Live in Browser (GitHub Pages)](https://img.shields.io/badge/%F0%9F%8E%AE_Play_Live_in_Browser-GitHub_Pages-f59e0b?style=for-the-badge)](https://helloyellow-hub.github.io/PMD-Rescue-Team-Wondermail-Generator/)
+[![Download Standalone Offline HTML (v1.0.0 Release)](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_Standalone_Offline_HTML-v1.0.0_Release-10b981?style=for-the-badge)](https://github.com/helloyellow-hub/PMD-Rescue-Team-Wondermail-Generator/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-3b82f6?style=for-the-badge)](LICENSE)
+
+> **🌐 Live Web App (GitHub Pages):** **[https://helloyellow-hub.github.io/PMD-Rescue-Team-Wondermail-Generator/](https://helloyellow-hub.github.io/PMD-Rescue-Team-Wondermail-Generator/)**  
+> **📦 Standalone Offline Release (`v1.0.0`):** **[Download from GitHub Releases](https://github.com/helloyellow-hub/PMD-Rescue-Team-Wondermail-Generator/releases/latest)**
+
 A standalone, zero-dependency, offline-capable single-file HTML application (`PMD-Rescue-Team-Mail-Generator-v1.0.html`) for generating, decoding, and converting **Wonder Mail**, **SOS Mail**, **A-OK Mail**, and **Thank-You Mail** passwords for ***Pokémon Mystery Dungeon: Red Rescue Team* (GBA)** and ***Blue Rescue Team* (Nintendo DS)**—complete with an interactive Rescue Team Base diorama (Outdoor & Indoor modes), animated Legendary Friend Areas, a live World Map dungeon tracker, a 3-lane animated dungeon walker, and a customizable Rescue Team Partner companion.
+
+---
+
+## 📸 Preview Screenshots
+
+| 🏕️ Outdoor Rescue Team Base & Wonder Mail Generator | 🏠 Indoor Rescue Team Base Diorama & Partner Talk (`💬`) |
+| :---: | :---: |
+| ![Outdoor Rescue Team Base & Wonder Mail Generator](screenshots/01-outdoor-base-and-generator.png) | ![Indoor Rescue Team Base Diorama](screenshots/02-indoor-base-diorama.png) |
+| *Starter-specific Outdoor Rescue Team Base hut, waving team flag, fire braziers, clickable Pelipper mail delivery, and 24-character Wonder Mail Generator controls.* | *Interactive Indoor Rescue Team Base (`🏠`) featuring Sleep (`💤`), Talk to Partner (`💬`) with authentic PMD1 emotion icons & dialogue bubbles, and Stand (`👣`).* |
+| **🗺️ Live World Map, 3-Lane Dungeon Walker & Client Letter** | **🌋 Legendary Friend Area Theme & SOS ➔ A-OK Converter** |
+| ![World Map, 3-Lane Dungeon Walker & Parchment Client Letter](screenshots/03-world-map-and-dungeon-walker.png) | ![Legendary Theme & SOS to A-OK Mail Converter](screenshots/04-legendary-theme-and-sos-converter.png) |
+| *Generated Wonder Mail password with Rank badge, animated World Map dungeon flight tracker, 3-lane dungeon walker, and authentic parchment client letter.* | *Weather Trio Legendary Friend Area diorama (*Volcanic Pit* with Groudon, *Stratos Lookout*, *Seafloor Cave*) alongside the 54-character SOS ➔ A-OK & Thank-You Mail Converter.* |
 
 ---
 

@@ -1,7 +1,5 @@
 # PMD-WM v1.0 — Pokémon Mystery Dungeon: Red & Blue Rescue Team Wonder Mail & SOS Mail Generator
 
-**Created & Developed by [Dave Alfred (`@helloyellow-hub`)](https://github.com/helloyellow-hub)**
-
 [![Play Live in Browser (GitHub Pages)](https://img.shields.io/badge/%F0%9F%8E%AE_Play_Live_in_Browser-GitHub_Pages-f59e0b?style=for-the-badge)](https://helloyellow-hub.github.io/PMD-Rescue-Team-Wondermail-Generator/)
 [![Download Standalone Offline HTML (v1.0.0 Release)](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_Standalone_Offline_HTML-v1.0.0_Release-10b981?style=for-the-badge)](https://github.com/helloyellow-hub/PMD-Rescue-Team-Wondermail-Generator/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-3b82f6?style=for-the-badge)](LICENSE)
@@ -131,10 +129,7 @@ A standalone, zero-dependency, offline-capable single-file HTML application (`PM
 ## 🏆 Credits & Acknowledgments
 
 ### 🛠️ Development, Design & Interactive Engineering
-- **Creator & Lead Developer**: **Dave Alfred** ([@helloyellow-hub](https://github.com/helloyellow-hub))
-- **UI/UX Architecture & Theme System**: **Dave Alfred** — Designed and engineered the 19 Lead Pokémon & Legendary themes, responsive mobile/desktop interface, custom parchment client letter renderer, and floating Partner companion system.
-- **Interactive Rescue Team Base Diorama & 3-Lane Dungeon Walker Direction**: **Dave Alfred** — Conceived, directed, and refined the Outdoor/Indoor Rescue Team Base huts, animated team flags & fire braziers, Pelipper clickable falling mail quest randomizer, interactive Partner sleep/talk/stand states, animated Legendary Friend Areas (*Stratos Lookout*, *Volcanic Pit*, *Seafloor Cave*), live World Map dungeon flight tracker, and 3-lane dungeon walker with authentic Boss & Kecleon walk-bys.
-- **Quality Assurance, Sprite Alignment & Feature Polish**: **Dave Alfred** — Pixel-level auditing of sprite bounding boxes, directional walk/sleep animations, emotion icons, and PMD1 game-accurate mission validation.
+- **Put Together by:** [Dave Alfred (`@helloyellow-hub`)](https://github.com/helloyellow-hub)
 
 ### 🔐 Core Password Generation & Decoding Algorithms
 - **[UPokeCenter (Peter O. / The Ultimate Pokémon Center)](https://www.upokecenter.com/games/dungeon/guides/wondermail.php)** — Most importantly, special thanks to **UPokeCenter** (`wondermail.php` & `sosgen.php`) for reverse-engineering and documenting the original *Pokémon Mystery Dungeon: Red & Blue Rescue Team* 24-character Wonder Mail and 54-character SOS / A-OK / Thank-You Mail bit-packing tables, checksums, encryption tables, mission validation rules, and flavor-text generation logic.

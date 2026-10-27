@@ -2,7 +2,7 @@
 
 # 📮 PMD Rescue Team Wonder Mail & SOS Mail Generator (`v1.0`)
 
-**A standalone, offline-ready Wonder Mail & SOS Mail generator for _Pokémon Mystery Dungeon: Red Rescue Team_ (GBA) & _Blue Rescue Team_ (Nintendo DS)**
+**A standalone, offline-ready, mobile-first Wonder Mail & SOS Mail generator for _Pokémon Mystery Dungeon: Red Rescue Team_ (GBA) & _Blue Rescue Team_ (Nintendo DS)**
 
 [![Play Live in Browser (GitHub Pages)](https://img.shields.io/badge/%F0%9F%8E%AE_Play_Live_in_Browser-GitHub_Pages-f59e0b?style=for-the-badge)](https://helloyellow-hub.github.io/PMD-Rescue-Team-Wondermail-Generator/)
 [![Download Standalone Offline HTML (v1.0.0 Release)](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_Standalone_Offline_HTML-v1.0.0_Release-10b981?style=for-the-badge)](https://github.com/helloyellow-hub/PMD-Rescue-Team-Wondermail-Generator/releases/latest)
@@ -28,7 +28,7 @@
 
 If you still replay *Pokémon Mystery Dungeon: Red Rescue Team* or *Blue Rescue Team*, you probably know the pain of hunting down old Wonder Mail tools that have gone offline, or wiping on floor 75 of *Purity Forest* and *Wish Cave* with nobody around to rescue you.
 
-I put this tool together so everything you need for PMD1 passwords lives in one place and works completely offline. You can run it right in your browser or download `PMD-Rescue-Team-Mail-Generator-v1.0.html` as a single file that holds all the sprites, portraits, maps, fonts, and password logic inside it. Whether you want to roll a job for a Friend Bow or Golden Seed, unlock the four Wonder Mail-only Friend Areas, check what an old code does, or convert your own SOS Mail into an A-OK Mail to revive yourself without a link cable, it handles all of it. Along the way, I also built in an interactive Rescue Team Base, Partner dialogue, a world map tracker, and a little dungeon scene that reacts to the jobs you create.
+I put this tool together so everything you need for PMD1 passwords lives in one place, works completely offline, and is built **mobile-first and mobile-friendly** from the ground up. You can run it right in your phone or desktop browser, or download `PMD-Rescue-Team-Mail-Generator-v1.0.html` as a single file that holds all the sprites, portraits, maps, fonts, and password logic inside it. Whether you want to roll a job for a Friend Bow or Golden Seed, unlock the four Wonder Mail-only Friend Areas, check what an old code does, or convert your own SOS Mail into an A-OK Mail to revive yourself without a link cable, it handles all of it. Along the way, I also built in an interactive Rescue Team Base, Partner dialogue, a world map tracker, and a little dungeon scene that reacts to the jobs you create.
 
 ---
 
@@ -39,7 +39,7 @@ I put this tool together so everything you need for PMD1 passwords lives in one 
 
 ### 2. Use It Offline (Single HTML File)
 1. Download [`PMD-Rescue-Team-Mail-Generator-v1.0.html`](PMD-Rescue-Team-Mail-Generator-v1.0.html) (also available on [GitHub Releases](https://github.com/helloyellow-hub/PMD-Rescue-Team-Wondermail-Generator/releases/latest)).
-2. Open the file in any desktop or mobile browser (Chrome, Firefox, Safari, or Edge).
+2. Open the file in any mobile or desktop browser (Safari, Chrome, Firefox, or Edge) — the standalone HTML file itself is **mobile-first and mobile-friendly**, so all cards, canvases, touch controls, and symbol buttons (`♂`, `♀`, `…`) scale cleanly on phones and tablets right alongside your GBA, DS, or emulator.
 3. That's it - no internet connection, local server, or setup needed. Everything is packed into that single HTML file.
 
 ---

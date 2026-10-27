@@ -162,7 +162,7 @@ Next to the map, the **3-Lane Dungeon Walker** brings each mission to life as yo
 - **Your Rescue Team**: Your Lead Pokémon, Following Partner, and (on *Escort* jobs) the client Pokémon walk through the middle lane together.
 - **Wild Pokémon, Dungeon Bosses & Kecleon**:
   - Wild Pokémon that actually live in that dungeon wander across the top and bottom lanes.
-  - **All 25 Dungeon Bosses**: Picking a boss dungeon brings out its boss in the outer lanes, including **Moltres**, **Zapdos**, **Articuno**, **Groudon**, **Rayquaza**, **Kyogre**, **Mewtwo**, **Lugia**, **Ho-Oh**, **Celebi**, **Jirachi**, **Regirock**, **Regice**, **Registeel**, **Entei**, **Raikou**, **Suicune**, **Latios**, and all four **Deoxys** forms (*Normal*, *Attack*, *Defense*, and *Speed*) in **Meteor Cave**.
+  - **25 Story & Legendary Dungeon Bosses**: Picking a boss dungeon brings out its boss in the outer lanes—**Skarmory**, **Gengar**, **Ekans**, **Medicham**, **Mankey**, **Zapdos**, **Moltres**, **Articuno**, **Lugia**, **Ho-Oh**, **Mewtwo**, **Mew**, **Jirachi**, **Regirock**, **Regice**, **Registeel**, **Entei**, **Raikou**, **Suicune**, **Latios**, **Latias**, and all four **Deoxys** forms (*Normal*, *Attack*, *Defense*, and *Speed*) in **Meteor Cave**.
   - **Green & Purple Kecleon**: In dungeons where Kecleon Shops can appear, you might occasionally spot a Green or Purple Kecleon strolling by.
 - **Quick Mission Summary**: Shows animated client and target sprites along the bottom bar with a quick readout of the `Place`, `Objective`, `Client`, `Reward`, and `Difficulty`.
 

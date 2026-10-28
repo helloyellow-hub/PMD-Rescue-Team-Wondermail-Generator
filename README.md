@@ -112,9 +112,15 @@ Pick your **Lead Pokémon** from 19 themes and pair them with any of the **17 Fo
 
 <br />
 
-![Pelipper Mail Delivery, Ho-Oh Wing Feathers & Pelipper Mailbox](readme-assets/pelipper-mailbox-and-wings.gif)
+![Pelipper Mail Delivery, Open Mail, Save Mail & Pelipper Mailbox](readme-assets/pelipper-mail-and-mailbox.gif)
 
-*Catching a Wonder Mail letter dropped by Pelipper, inspecting a drifting Rainbow Wing released by Ho-Oh, and managing saved codes inside the Pelipper Mailbox (`📬`).*
+*Catching a Wonder Mail letter dropped by Pelipper on the yard, opening the Pelipper Delivery mail popup, clicking the heart (`♡` ➔ `♥`) to save it, and opening the Pelipper Mailbox (`📬`) to inspect saved codes.*
+
+<br />
+
+![Ho-Oh Flyby & Drifting Rainbow Wing Feather Pickup](readme-assets/hooh-feather-drop.gif)
+
+*Watching Ho-Oh soar across the Rescue Team Base sky, release a drifting Rainbow Wing feather that sways down onto the yard, and picking it up.*
 
 </div>
 

@@ -106,7 +106,7 @@ These are visualization and reference features in the tool. The Wonder Mail and 
 
 ![Dungeon walker details for a boss and an evolution item](readme-assets/walker-details.gif)
 
-*The walker keeps moving while a click opens a text detail card: Story Join for Latias, a Special Encounter for Mew, Dungeon Boss for Zapdos, and Fire Stone with evolution pairs and no price.*
+*Squirtle and Meowth walk the lanes. The cards show a Thunderwave Cave wild Pokémon and Blast Seed, Latias as a Story Join in Pitfall Valley, Mew as a Special Encounter in Buried Relic, Zapdos as a Dungeon Boss on Mt. Thunder, and Fire Stone with its evolution pairs and no price. The clip returns to that same team and cave so the loop can restart.*
 
 </div>
 
@@ -254,7 +254,7 @@ The map above the job letter follows the selected dungeon, including when a pass
 
 ![Three-lane dungeon walker](readme-assets/dungeon-walker.gif)
 
-*Lead and partner hold the middle lane. Wild Pokémon use the upper and lower lanes, and floor items sit on the tiles. The place line names the dungeon and its floor range.*
+*The loop opens and closes on Torchic with Treecko in Tiny Woods. The follower changes to Eevee, the lead changes to Squirtle, and the floor changes to Mt. Blaze and then Stormy Sea, where they escort Bulbasaur toward Charmander. The escort walks in and walks off with the page's own formation movement, and the scrolling floor lines up again when the loop restarts.*
 
 </div>
 

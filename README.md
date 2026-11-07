@@ -100,31 +100,23 @@ These are visualization and reference features in the tool. The Wonder Mail and 
 - These forms are not recruitable leads in Red and Blue Rescue Team. They are a visual costume on the Weather Trio friend areas. Turning one on does not change a password.
 - Mega Rayquaza uses its Mega portrait while awake. Sleeping and the sigh face fall back to Rayquaza's closed eyes. Primal Groudon and Primal Kyogre keep the Primal portrait for those faces. A form without a real sleep sprite does not play the nap.
 
-### Dungeon, Pokémon, and item viewers
-
-These clips are pieces of one recorded walk, Squirtle with Meowth, played at 25 fps. Each piece repeats on its own, so the picture jumps when that piece starts again.
+### Pokémon viewer
 
 <div align="center">
 
-![Plusle in Thunderwave Cave, with recruit text](readme-assets/walker-details-wild.gif)
+![Pokémon viewer](readme-assets/walker-details-wild.gif)
 
-*Plusle on Thunderwave Cave: floors, level, and a recruitable rate.*
+*One wild Pokémon card from the walker: portrait, floors, level, and recruit text.*
 
-![Blast Seed item card](readme-assets/walker-details-item.gif)
+</div>
 
-*Blast Seed, including that it spawns in this dungeon and the other places it is found.*
+### Item viewer
 
-![Latias story join card](readme-assets/walker-details-latias.gif)
+<div align="center">
 
-*Latias in Pitfall Valley, marked Story Join rather than a normal recruit battle.*
+![Item viewer](readme-assets/walker-details-item.gif)
 
-![Mew special encounter card](readme-assets/walker-details-mew.gif)
-
-*Mew in Buried Relic, a Special Encounter with its floor and recruit rate.*
-
-![Zapdos boss card, then Fire Stone](readme-assets/walker-details-zapdos.gif)
-
-*Zapdos on Mt. Thunder as a Dungeon Boss, then Fire Stone with its evolution pairs and no price.*
+*One item card from the walker: effect, floors in this dungeon, and other places it is found.*
 
 </div>
 

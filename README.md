@@ -254,7 +254,7 @@ The map above the job letter follows the selected dungeon, including when a pass
 
 ![Three-lane dungeon walker](readme-assets/dungeon-walker.gif)
 
-*The loop opens and closes on Torchic with Treecko in Tiny Woods. The follower changes to Eevee, the lead changes to Squirtle, and the floor changes to Mt. Blaze and then Stormy Sea, where they escort Bulbasaur toward Charmander. The escort walks in and walks off with the page's own formation movement, and the scrolling floor lines up again when the loop restarts.*
+*The loop opens and closes on Torchic with Treecko in Tiny Woods. Both wild lanes are off the picture at that join, so the floor, the team, and the items line up when it restarts. The follower changes to Eevee and the lead to Squirtle. They walk Thunderwave Cave, Mt. Blaze, Magma Cavern, Mt. Freeze, and Mt. Thunder, then Stormy Sea, where Bulbasaur walks in once and they escort it toward Charmander before it walks off. Sky Tower comes next, and the team returns to Torchic and Treecko in Tiny Woods.*
 
 </div>
 

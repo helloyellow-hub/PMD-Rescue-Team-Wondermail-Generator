@@ -102,11 +102,29 @@ These are visualization and reference features in the tool. The Wonder Mail and 
 
 ### Dungeon, Pokémon, and item viewers
 
+These clips are pieces of one recorded walk, Squirtle with Meowth, played at 25 fps. Each piece repeats on its own, so the picture jumps when that piece starts again.
+
 <div align="center">
 
-![Dungeon walker details for a boss and an evolution item](readme-assets/walker-details.gif)
+![Plusle in Thunderwave Cave, with recruit text](readme-assets/walker-details-wild.gif)
 
-*Squirtle and Meowth walk the lanes. The cards show a Thunderwave Cave wild Pokémon and Blast Seed, Latias as a Story Join in Pitfall Valley, Mew as a Special Encounter in Buried Relic, Zapdos as a Dungeon Boss on Mt. Thunder, and Fire Stone with its evolution pairs and no price. The clip returns to that same team and cave so the loop can restart.*
+*Plusle on Thunderwave Cave: floors, level, and a recruitable rate.*
+
+![Blast Seed item card](readme-assets/walker-details-item.gif)
+
+*Blast Seed, including that it spawns in this dungeon and the other places it is found.*
+
+![Latias story join card](readme-assets/walker-details-latias.gif)
+
+*Latias in Pitfall Valley, marked Story Join rather than a normal recruit battle.*
+
+![Mew special encounter card](readme-assets/walker-details-mew.gif)
+
+*Mew in Buried Relic, a Special Encounter with its floor and recruit rate.*
+
+![Zapdos boss card, then Fire Stone](readme-assets/walker-details-zapdos.gif)
+
+*Zapdos on Mt. Thunder as a Dungeon Boss, then Fire Stone with its evolution pairs and no price.*
 
 </div>
 

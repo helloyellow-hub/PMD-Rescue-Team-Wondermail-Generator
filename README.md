@@ -100,23 +100,13 @@ These are visualization and reference features in the tool. The Wonder Mail and 
 - These forms are not recruitable leads in Red and Blue Rescue Team. They are a visual costume on the Weather Trio friend areas. Turning one on does not change a password.
 - Mega Rayquaza uses its Mega portrait while awake. Sleeping and the sigh face fall back to Rayquaza's closed eyes. Primal Groudon and Primal Kyogre keep the Primal portrait for those faces. A form without a real sleep sprite does not play the nap.
 
-### Pokémon viewer
+### Pokémon and item viewers
 
 <div align="center">
 
-![Pokémon viewer](readme-assets/walker-details-wild.gif)
+![Pokémon and item viewers](readme-assets/pokemon-item-viewers.gif)
 
-*One wild Pokémon card from the walker: portrait, floors, level, and recruit text.*
-
-</div>
-
-### Item viewer
-
-<div align="center">
-
-![Item viewer](readme-assets/walker-details-item.gif)
-
-*One item card from the walker: effect, floors in this dungeon, and other places it is found.*
+*The card alone, with no dungeon scene. It opens on Plusle (recruitable, Red only), Minun (recruitable, Blue only), Pidgey (not recruitable), and Pelipper (evolve only), then Oran Berry, Blast Seed, Fire Stone, and an Escape Orb. Each card holds still so it can be read, then dissolves into the next.*
 
 </div>
 

@@ -1,11 +1,11 @@
 <div align="center">
 
-# 📮 PMD Rescue Team Wonder Mail & SOS Mail Generator (`v1.2.0`)
+# 📮 PMD Rescue Team Wonder Mail & SOS Mail Generator (`v1.2.1`)
 
 **A standalone, offline-ready, mobile-first Wonder Mail, SOS Mail, A-OK Mail, and Thank-You Mail tool for _Pokémon Mystery Dungeon: Red Rescue Team_ (GBA) and _Blue Rescue Team_ (Nintendo DS)**
 
 [![Play Live in Browser (GitHub Pages)](https://img.shields.io/badge/%F0%9F%8E%AE_Play_Live_in_Browser-GitHub_Pages-f59e0b?style=for-the-badge)](https://helloyellow-hub.github.io/PMD-Rescue-Team-Wondermail-Generator/)
-[![Download Standalone Offline HTML (v1.2.0)](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_Standalone_Offline_HTML-v1.2.0-10b981?style=for-the-badge)](PMD-Rescue-Team-Mail-Generator-v1.2.0.html)
+[![Download Standalone Offline HTML (v1.2.1)](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_Standalone_Offline_HTML-v1.2.1-10b981?style=for-the-badge)](PMD-Rescue-Team-Mail-Generator-v1.2.1.html)
 [![386 Gen I–III Pokémon](https://img.shields.io/badge/Pok%C3%A9mon-386_Gen_I%E2%80%93III-ef4444?style=for-the-badge)](https://github.com/helloyellow-hub/PMD-Rescue-Team-Wondermail-Generator)
 [![Red and Blue data](https://img.shields.io/badge/Data-PMD1_Red_%26_Blue-3b82f6?style=for-the-badge)](https://github.com/helloyellow-hub/PMD-Rescue-Team-Wondermail-Generator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-3b82f6?style=for-the-badge)](LICENSE)
@@ -18,7 +18,7 @@
 
 <br />
 
-[🌐 **Launch Live Web App (GitHub Pages)**](https://helloyellow-hub.github.io/PMD-Rescue-Team-Wondermail-Generator/) · [📥 **Offline HTML (`PMD-Rescue-Team-Mail-Generator-v1.2.0.html`)**](PMD-Rescue-Team-Mail-Generator-v1.2.0.html) · [📖 **How to Use**](#-how-to-use-all-4-tabs) · [🆕 **What's new in 1.2.0**](#-whats-new-in-120) · [🏆 **Credits**](#-credits--acknowledgments)
+[🌐 **Launch Live Web App (GitHub Pages)**](https://helloyellow-hub.github.io/PMD-Rescue-Team-Wondermail-Generator/) · [📥 **Offline HTML (`PMD-Rescue-Team-Mail-Generator-v1.2.1.html`)**](PMD-Rescue-Team-Mail-Generator-v1.2.1.html) · [📖 **How to Use**](#-how-to-use-all-4-tabs) · [🆕 **What's new in 1.2.1**](#-whats-new-in-121) · [🏆 **Credits**](#-credits--acknowledgments)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 If you still replay *Pokémon Mystery Dungeon: Red Rescue Team* or *Blue Rescue Team*, you probably know the pain of hunting down old Wonder Mail tools that have gone offline, or wiping on a deep floor of *Purity Forest* or *Wish Cave* with nobody around to rescue you.
 
-This tool keeps Wonder Mail and rescue passwords in one place. It works offline, and it is built mobile-first. Open it in a phone or desktop browser, or download `PMD-Rescue-Team-Mail-Generator-v1.2.0.html`. That single file holds the sprites, portraits, maps, fonts, and password logic. `index.html` is the same file, so GitHub Pages serves this version.
+This tool keeps Wonder Mail and rescue passwords in one place. It works offline, and it is built mobile-first. Open it in a phone or desktop browser, or download `PMD-Rescue-Team-Mail-Generator-v1.2.1.html`. That single file holds the sprites, portraits, maps, fonts, and password logic. `index.html` is the same file, so GitHub Pages serves this version.
 
 You can roll a job, check an old code, or turn an SOS Mail password into an A-OK Mail and a Thank-You Mail. Around that, there is a Rescue Team Base, a Pelipper mailbox stored in your browser, a world map, and a 3-lane dungeon walker with Red/Blue floor information.
 
@@ -41,16 +41,26 @@ The password logic follows the original Red and Blue Rescue Team games. Shiny co
 ### 1. Play in Your Browser (GitHub Pages)
 👉 **[https://helloyellow-hub.github.io/PMD-Rescue-Team-Wondermail-Generator/](https://helloyellow-hub.github.io/PMD-Rescue-Team-Wondermail-Generator/)**
 
-GitHub Pages updates from the default branch. Until this version is merged, use the offline file below if you want `v1.2.0` specifically.
+GitHub Pages updates from the default branch. Until this version is merged, use the offline file below if you want `v1.2.1` specifically.
 
 ### 2. Use It Offline (Single HTML File)
-1. Download [`PMD-Rescue-Team-Mail-Generator-v1.2.0.html`](PMD-Rescue-Team-Mail-Generator-v1.2.0.html) from this repository (it is the same bytes as [`index.html`](index.html)).
+1. Download [`PMD-Rescue-Team-Mail-Generator-v1.2.1.html`](PMD-Rescue-Team-Mail-Generator-v1.2.1.html) from this repository (it is the same bytes as [`index.html`](index.html)).
 2. Open that file in Safari, Chrome, Firefox, or Edge. Cards, canvases, touch controls, and the password symbols (`♂`, `♀`, `…`) reflow on a phone. Browser zoom still leaves the text and buttons usable, and keyboard focus draws a high-contrast outline on the form controls.
 3. No install, local server, or account is required. Wonder Mail pictures and the password tables are inside the file. A browser that blocks storage or the clipboard will say so in a status line instead of pretending the click worked.
 
 The file ships with an empty mailbox (`SAVED_MAILS` starts as `[]`). Anything you save later stays in that browser's local storage. Export JSON if you want a backup you can move.
 
 ---
+
+## 🆕 What's New in 1.2.1
+
+- Accessibility is improved.
+- Security hardening is in place.
+- The standalone file is about 47% smaller.
+- The tab scrollbar shows on hover, and you can drag it with the mouse.
+- Client and Escort To (Target) pickers show side portraits in a fixed 84×84 box, drawn at 2× pixel-exact size with no stretching.
+- Other Locations in the Item and Pokémon viewers can be clicked, and that choice fills the Wonder Mail generator.
+- Clearing the Pelipper Mailbox asks for confirmation first.
 
 ## 🆕 What's New in 1.2.0
 
